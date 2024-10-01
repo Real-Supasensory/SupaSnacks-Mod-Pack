@@ -8,13 +8,13 @@ B:force_fullscreen = 'false';
 ##[customization]
 
 B:modpack_mode = 'false';
-B:show_customization_overlay = 'true';
+B:show_customization_overlay = 'false';
 B:advanced_customization_mode = 'false';
 
 
 ##[loading]
 
-B:preload_animations = 'false';
+B:preload_animations = 'true';
 S:preload_resources = '[cubic_panorama]betterminecraftpanorama%!source_end!%';
 S:custom_game_intro_skip_text = '';
 B:allow_game_intro_skip = 'true';
@@ -24,10 +24,10 @@ B:game_intro_fade_out = 'true';
 
 ##[window]
 
-B:show_custom_window_icon = 'false';
-S:custom_window_icon_macos = '/config/fancymenu/assets/icon32x32.icns';
+B:show_custom_window_icon = 'true';
+S:custom_window_icon_macos = '/config/fancymenu/assets/mac.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/icon32x32.png';
-S:custom_window_title = 'SupaSnacks Mod Pack V2.1 1.20.1';
+S:custom_window_title = 'Better Minecraft [FORGE] 1.20.1';
 S:custom_window_icon_16 = '/config/fancymenu/assets/icon16x16.png';
 
 

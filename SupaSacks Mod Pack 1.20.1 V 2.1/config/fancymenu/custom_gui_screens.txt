@@ -3,12 +3,3 @@ type = custom_gui_screens
 overridden_screens {
 }
 
-custom_gui {
-  identifier = 66669999
-  title = RTP MENU
-  allow_esc = true
-  transparent_world_background = true
-  transparent_world_background_overlay = true
-  pause_game = true
-}
-

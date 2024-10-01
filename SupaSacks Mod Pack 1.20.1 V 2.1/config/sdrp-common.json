@@ -2,6 +2,5 @@
   "clientId": 1119928471066525748,
   "enabled": true,
   "screenEvent": true,
-  "clientJoinEvent": true,
-  "logState": false
+  "clientJoinEvent": true
 }
